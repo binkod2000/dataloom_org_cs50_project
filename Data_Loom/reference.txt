@@ -1,0 +1,11 @@
+https://stackoverflow.com/posts/23959527/edit
+https://www.youtube.com/watch?v=fju9ii8YsGs
+https://www.codeproject.com/articles/16177/using-ajax-to-simply-read-from-and-write-to-a-data
+https://designshack.net/tutorialexamples/dashboard/#
+https://stackoverflow.com/questions/446060/css-two-divs-next-to-each-other
+https://www.w3schools.com/CSSref/css3_pr_border-radius.asp
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+http://themes.typepad.com/guide/container/
+https://bokeh.pydata.org/en/latest/docs/user_guide/
+http://howtocenterincss.com/#contentType=div&horizontal=center&vertical=middle
+stopped keeping track after this

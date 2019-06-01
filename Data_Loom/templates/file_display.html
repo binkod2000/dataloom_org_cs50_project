@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    File Display
+{% endblock %}
+
+{% block main %}
+    <form action="/file_display" method="post">
+        <div class="form-group">
+            <h1>Does this look correct?</h1>
+        </div>
+        {{data | safe}}
+    </form>
+{% endblock %}

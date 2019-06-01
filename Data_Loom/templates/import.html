@@ -1,0 +1,34 @@
+{% extends "layout2.html" %}
+
+{% block title %}
+    Import Data Files
+{% endblock %}
+
+
+
+{% block main %}
+
+<div style="display:flex;justify-content:center;align-items:center;">
+
+      <form action='/upload' method='POST' enctype='multipart/form-data'>
+
+           <div class="form-group">
+
+            <label for="upload_file"><h2>Select File to Import</h2></label>
+            <input type="file" class="form-control-file" name="upload_file" required autofocus/>
+        </div>
+            <br></br>
+            <div class="form-group">
+
+            <h2> Name Data Set</h2>
+                <input autocomplete="off" autofocus class="form-control" name="dataset_name" placeholder="Dataset Name" type="text required="true""/>
+            </div>
+
+            <button class="btn btn-primary" type="submit">Upload File</button>
+            <br></br>
+        </form>
+
+</div>
+
+
+{% endblock %}
